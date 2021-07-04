@@ -1,0 +1,12 @@
+{
+  "name": "@lioness100/ts-config",
+  "version": "1.0.0",
+  "description": "My personal tsconfig",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lioness100/ts-config.git"
+  },
+  "author": "Lioness100 <jchickmm2@gmail.com>",
+  "license": "MIT"
+}
