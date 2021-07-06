@@ -1,8 +1,8 @@
 {
   "name": "@lioness100/ts-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal tsconfig",
-  "main": "index.json",
+  "main": "tsconfig.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Lioness100/ts-config.git"
