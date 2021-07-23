@@ -9,7 +9,7 @@
     "importsNotUsedAsValues": "error",
     "incremental": true,
     "lib": ["ESNEXT"],
-    "module": "commonjs",
+    "module": "ESNext",
     "moduleResolution": "node",
     "newLine": "lf",
     "noEmitHelpers": true,
